@@ -7,11 +7,17 @@ This was the big game I worked on creating for several years learning Unity. I n
 Uploaded it here to share and for archival purposes.  :) 
 
 *Platform Availability: Windows (7 & 8) ,Mac (Intel Mac's Only)
+
 *Game Engine: Unity 5.x
+
 *Game Modes: Single-player Only
+
 *Genre: Arcade / Adventure
+
 *Game Release Date: cancelled
+
 *Price: Free
+
 *Game (File)Size: About 1.5Gb Estimate
 
 
