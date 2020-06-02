@@ -13,18 +13,19 @@ Genre: Arcade / Adventure
 Game Release Date: cancelled
 Price: Free
 Game (File)Size: About 1.5Gb Estimate
+-----------------------------------------------------------------------------------------------
+# "DOWNLOAD LINKS":
 
-# DOWNLOAD LINKS:
-
-*WINDOWS: 
+# WINDOWS: 
 Last Build Version 54: 
 
 Build 53:https://netbytegames.s3.amazonaws.com/ollietheball/Adventures+of+Ollie+The+Ball-The+Lost+Coin+Hunt(Alpha053).msi
 
-*Mac OS
+# Mac OS
 (Works only with OS 10.14 and earlier)
 
 Build 53: https://netbytegames.s3.amazonaws.com/ollietheball/OllietheBall(Alpha053)-MacOSX.zip
 
 
-*Android Alpha (version 14): https://netbytegames.s3.amazonaws.com/ollietheball/Ollie+The+Ball-Adventure+1(Alpha0014).apk
+# Android 
+Alpha (version 14): https://netbytegames.s3.amazonaws.com/ollietheball/Ollie+The+Ball-Adventure+1(Alpha0014).apk
