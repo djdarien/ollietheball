@@ -14,7 +14,7 @@ Game Release Date: cancelled
 Price: Free
 Game (File)Size: About 1.5Gb Estimate
 
-#DOWNLOAD LINKS:
+# DOWNLOAD LINKS:
 
 *WINDOWS: 
 Last Build Version 54: 
